@@ -10,5 +10,6 @@
 #include <errno.h>
 #include <errno.h>
 #include <sys/stat.h>
+#include <fcntl.h>
 
 #endif
